@@ -1,0 +1,11 @@
+Part 1: Discussion Questions
+
+Recursion
+1. Recursion is a programming technique that calls a function inside itself until it reaches the base case.
+2. It's necessary to have a base case because that's how the recursive function knows to stop calling itself. 
+
+Graphs
+1. Graphs are a kind of data structure that have nodes that are connected by edges that represent the relationship between the nodes.
+2. Trees are hierarchical whereas graphs are not. The nodes in trees are acyclic and directed, while the nodes in graphs can be cyclic or acyclic, directed or non-directed. 
+3. All the characters in the Game of Thrones 
+
